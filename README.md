@@ -12,6 +12,8 @@
 ## Screenshot
 ### <img width="960" alt="image" src="https://user-images.githubusercontent.com/104933717/186793986-a80ad942-c48f-439e-b871-2b7eb5dadedf.png">
 ### <img width="960" alt="image" src="https://user-images.githubusercontent.com/104933717/186794036-522a4892-30fc-4445-a335-8db6817b9425.png">
+## Deployed Link
+### https://young-taiga-00479.herokuapp.com/
 ## Status 
 ### reactPortfolio is working correctly in displaying the nav links, the avatar, the sections of "About Me, Resume, and Portfolio. Ufortunetly, Contact Me section is not rendered correctly and I was not able to render a sixth project in my portfolio section. I also was not able to link deployed links to my projects and was unable to render the footer all the way down to the bottom of the page. These are all issues I am planning to undertake during future revisions of this work!
 ## Credits/Sources 
