@@ -2,7 +2,7 @@
 ## Description
 ### Project purpose was to use react to create a portfolio that employers and/or people interested in the user's work can access and read their page and where the user can showcase all of their skills and projects.
 ## User
-### User should be able to see run the program from vs code terminal ans view portfolio in local browser. User should be able to view a portfolio complete with nav links, an avarar, contact form, and page displaying past works.
+### User should be able to run the program from vs code terminal and view portfolio in local browser. User should be able to view a portfolio complete with nav links, an avatar/image, contact form, and page displaying past works.
 ## Technologies
 ### GitHub was used to clone a new repository onto a computer and was also used to deploy the website when edits where finished and final version needed to be deployed. Visual Studio Code was used to create JS files and components/pages folders to hold page rendering information from scratch. GitBash Terminal was used to git add/commit/push edits made from local repository onto GitHub to update respository.
 ## Setup
